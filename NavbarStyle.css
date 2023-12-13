@@ -1,0 +1,20 @@
+.navbar {
+    background-color: #343a40; 
+  }
+  .navbar-dark .navbar-toggler-icon {
+    background-color: #1f09e2; 
+  }
+
+  .navbar-nav .nav-link {
+    color: #9c0505; 
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #17a2b8;
+  }
+  .App-logo {
+    max-width: 50px; 
+    height: auto;
+    margin-right: 10px; 
+  }
+  

@@ -1,0 +1,24 @@
+.bodys {
+  background-color: #d2b4de;
+}
+.creds {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #13ca41;
+  padding: 30px;
+}
+.aside1 {
+  padding: 30px;
+}
+.aside2 {
+  background-color: #51056e;
+  padding: 20px;
+}
+.fotito {
+  width: 500px;
+  height: 500px;
+}
+header {
+  background-color: #ca0909;
+}
